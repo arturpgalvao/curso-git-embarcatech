@@ -1,0 +1,7 @@
+git init
+git config user.name "arturpgalvao"
+git config user.email "arturgalvao2004@gmail.com"
+git add tarefa1.txt
+git commit -m "tarefa1 adicionada"
+git remote add origin "https://github.com/arturpgalvao/curso-git-embarcatech.git"
+git push -u origin main
