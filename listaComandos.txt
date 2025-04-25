@@ -5,3 +5,9 @@ git add tarefa1.txt
 git commit -m "tarefa1 adicionada"
 git remote add origin "https://github.com/arturpgalvao/curso-git-embarcatech.git"
 git push -u origin main
+git add listaComandos.txt
+git commit -m "parte 2 da tarefa adicionada"
+git push
+git commit -m "matricula corrigida"
+git push 
+git commit -m "lista de comandos atualizada"
